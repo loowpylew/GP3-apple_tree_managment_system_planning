@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T13:52:53.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="PrD8EdMVqE1wIg_TFyus" version="14.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-11T17:35:29.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Wka7XgnRRZPC24L-39Uj" version="14.3.0" type="github" pages="4">
   <diagram id="r-UlQxihqQSb4CBXuq3y" name="Page-1">
     <mxGraphModel dx="2048" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,6 +65,15 @@
       <root>
         <mxCell id="bT9hYUsYsiY4Rfh817eA-0" />
         <mxCell id="bT9hYUsYsiY4Rfh817eA-1" parent="bT9hYUsYsiY4Rfh817eA-0" />
+        <mxCell id="BNiBeLDIM5KnuYYIn1oe-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="bT9hYUsYsiY4Rfh817eA-1">
+          <mxGeometry width="690" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BNiBeLDIM5KnuYYIn1oe-1" value="Logged In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BNiBeLDIM5KnuYYIn1oe-0">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BNiBeLDIM5KnuYYIn1oe-2" value="https://www.HATS/Profile/" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="BNiBeLDIM5KnuYYIn1oe-0">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
